@@ -1,4 +1,4 @@
 # HTML-CSS
  Curso de HTML5 e CSS3 do CursoemVideo
 
- Estou aprendendo a criar sites e afora vou gerenciar meus repositorios!
+ Estou aprendendo a criar sites e agora vou gerenciar meus repositorios!
